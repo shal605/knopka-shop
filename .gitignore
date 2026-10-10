@@ -1,0 +1,37 @@
+# WordPress
+wp-config.php.bak
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*
+wp-content/backups/
+wp-content/languages/loco/
+*.log
+*.tar
+*.tar.gz
+*.zip
+
+# Кэш и системные файлы
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Плагины, которые не нужны
+wp-content/plugins/akismet/
+wp-content/plugins/hello.php
+wp-content/plugins/jetpack/
+wp-content/plugins/mailpoet/
+wp-content/plugins/google-listings-and-ads/
+wp-content/plugins/reddit-for-woocommerce/
+wp-content/plugins/snapchat-for-woocommerce/
+wp-content/plugins/tiktok-for-business/
+wp-content/plugins/woocommerce-paypal-payments/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Node
+node_modules/

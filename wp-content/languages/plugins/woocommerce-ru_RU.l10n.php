@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'WooCommerce 11.2.0','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/woocommerce','last-translator'=>'','language-team'=>'Русский','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','pot-creation-date'=>'2026-10-07T14:00:38+00:00','po-revision-date'=>'2026-10-09 22:37+0000','x-generator'=>'Loco https://localise.biz/','x-domain'=>'woocommerce
+','language'=>'ru_RU','plural-forms'=>'nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);','x-loco-version'=>'2.8.9; wp-7.1.3; php-8.5.11','messages'=>[]];
